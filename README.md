@@ -1,6 +1,6 @@
 # git-deneme-2
 
-##Deneme Başlığı
+## Deneme Başlığı
 
 **kalın kelime** <br/>
 *italik kelime*
